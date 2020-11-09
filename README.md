@@ -20,3 +20,5 @@ Example is obtained by using wide-field fluorescent microscopy of GCaMP6s. Frque
 * Signal processing toolbox
 
 ![alt text](https://github.com/SagLab-CERVO/calcium_analysis/blob/main/examples/example_processing.png?raw=true)
+
+![alt text](https://github.com/SagLab-CERVO/calcium_analysis/blob/main/examples/example_soma.png?raw=true)
