@@ -8,12 +8,12 @@ Example is obtained by using wide-field fluorescent microscopy of GCaMP6s. Frque
 
 ## Features and methods included:
 
-* manual ROI drawing for soma and background - manual background correction is most suitable for the data from slices with uneven background 
+* Manual ROI drawing for soma and background - manual background correction is most suitable for the data from slices with uneven background 
 
-* peak detection - threshold based algorithm(during the first round mean value is determined and threshold is *mean+ n(2 by default)x standard deviation*, peaks that are found after threshold application are deleted and mean+n x std is recalculated) repeated 3 times
-* manual addition and removal of detected peaks in interactive window (see figure below for example)  
+* Peak detection - threshold based algorithm(during the first round mean value is determined and threshold is *mean+ n(2 by default)x standard deviation*, peaks that are found after threshold application are deleted and mean+n x std is recalculated) repeated 3 times
+* Manual addition and removal of detected peaks in interactive window (see figure below for example)  
 
-* the output parameters are mean **frequency** and **amplitude** of the calcium events
+* The output parameters are mean **frequency** and **amplitude** of the calcium events
 
 ## Dependencies:
 * Image processing toolbox
